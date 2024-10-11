@@ -35,3 +35,12 @@ The dataset used, `star-wars.csv`, contains detailed information about Star Wars
 - **Analyze trends** in the data, such as gender distribution within each species.
 - **Compare physical characteristics** like average height and mass across different groups of characters.
 - **Interactively visualize data**, making it easier to understand and analyze the information.
+
+## Group Members
+
+|Name|GitHub Username|
+|---|---|
+|**Sheyla Leyva Sánchez**|[@sheyls](https://github.com/sheyls)|
+|**Mariajose Franco Orozco**|[@MariajoseFranco](https://github.com/MariajoseFranco)|
+|**Francisco de Borja Lozano del Moral**|[@francloz](https://github.com/francloz)|
+|**Samuel Salgueiro Sanchez**|[@Sami200701](https://github.com/Sami200701)|
